@@ -1,6 +1,5 @@
 # Ballot Candidate Predictions Project
 
-![Project Image](project_image.png) (if applicable)
 
 ## Table of Contents
 - [Description](#description)
